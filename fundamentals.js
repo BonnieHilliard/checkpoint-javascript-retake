@@ -16,7 +16,7 @@ var lastColor = colors[2]
 // #3: Create an empty array called `favoriteColors`.
 // Type your solution immediately below this line:
 
-
+var favoriteColors = []
 
 // #4: Create a `for` loop that adds each string in `colors` to `favoriteColors`.
 // Type your solution immediately below this line:
