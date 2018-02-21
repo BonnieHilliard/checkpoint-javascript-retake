@@ -6,8 +6,12 @@
 // - an `addMember` method that adds a person (string) to the `members` array
 // Type your solution immediately below this line:
 
-
-
+function () {
+  this.name {
+    
+  }
+  this.
+}
 
 
 // #2: Create an instance of the Group class and set it to a variable called `classmates`
