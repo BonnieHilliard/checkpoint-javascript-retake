@@ -1,14 +1,17 @@
 // NOTE: Make sure to use the `var` keyword for ALL variable declarations.
 
 // #1: Create an array of strings called `colors` that contains three colors.
-// Type your solution immediately below this line:
-
-var colors: ["red" , "blue", "green"]
+// Type your solution immediately below this line
+var colors = [
+    "red",
+    "blue",
+    "green"
+];
 
 // #2: Access the last item in the array and assign to a variable called `lastColor`.
 // Type your solution immediately below this line:
 
-
+var lastColor = colors[2]
 
 // #3: Create an empty array called `favoriteColors`.
 // Type your solution immediately below this line:
