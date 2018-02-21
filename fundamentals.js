@@ -26,6 +26,18 @@ var favoriteColors = []
 // #5: Create an object literal called `student` that contains three key-value pairs.
 // Type your solution immediately below this line:
 
+var student = [
+    {
+        name: "Bonnie"
+        school: "General Assembly"
+    }, {
+        name: "Adam"
+        school: "University of Toronto"
+    }, {
+        name: "Sarah"
+        school: "Harvard"
+    }
+]
 
 
 // #6: Add a `attends-office-hours` (spelled exactly) property to `student` by accessing
