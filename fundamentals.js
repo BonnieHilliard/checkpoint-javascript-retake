@@ -20,7 +20,9 @@ var favoriteColors = []
 
 // #4: Create a `for` loop that adds each string in `colors` to `favoriteColors`.
 // Type your solution immediately below this line:
-
+for (i = 0 ; i < colors.length; i++) {
+    text += favoriteColors + " "
+}
 
 
 // #5: Create an object literal called `student` that contains three key-value pairs.
